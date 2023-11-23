@@ -83,7 +83,7 @@ To run the application locally, follow these steps:
 
 ![View App Deployed](docs/step6-app-deploy.png)
 
-8. Make a change
+8. Make a change in the code to view in the deploy
 
 
 8. Upload the change to the main branch
