@@ -1,4 +1,4 @@
-# Spring Boot - Azure DevOps 
+# Azure DevOps - Spring Boot 
 
 This repository provides a quick guide on how to set up and run a pipeline in Azure DevOps of a Spring Boot project
 
